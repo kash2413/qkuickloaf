@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){$('#mobilemenutext').click(function(){$('.select-menu').focus();});$('#sidebar img').attr('data-pin-nopin','true');$('.header-search-mobile-icon').click(function(){$('#header-search-mobile').slideToggle();$('.header-search-mobile-text').focus();});$('.shopgidscontainer').masonry({itemSelector:'.post-wrap',gutter:20});});
